@@ -11,4 +11,4 @@
 ```bash
 gcc -o dino main.c
 чтобы заработал код, введите в командную строку:
-./dino input.txt
+./movdino input.txt
